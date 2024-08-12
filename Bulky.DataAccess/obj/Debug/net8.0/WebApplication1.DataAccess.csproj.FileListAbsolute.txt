@@ -17,3 +17,4 @@ C:\Users\ekmek\source\repos\WebApplication1\Bulky.DataAccess\obj\Debug\net8.0\re
 C:\Users\ekmek\source\repos\WebApplication1\Bulky.DataAccess\obj\Debug\net8.0\WebApplication1.DataAccess.pdb
 C:\Users\ekmek\source\repos\WebApplication1\Bulky.DataAccess\obj\Debug\net8.0\WebApplication1.DataAccess.genruntimeconfig.cache
 C:\Users\ekmek\source\repos\WebApplication1\Bulky.DataAccess\obj\Debug\net8.0\ref\WebApplication1.DataAccess.dll
+C:\Users\ekmek\source\repos\WebApplication1\Bulky.DataAccess\obj\Debug\net8.0\WebApplication1.DataAccess.sourcelink.json
