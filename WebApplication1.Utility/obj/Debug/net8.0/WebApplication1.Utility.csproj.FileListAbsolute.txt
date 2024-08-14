@@ -10,3 +10,4 @@ C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\ne
 C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\net8.0\WebApplication1.Utility.pdb
 C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\net8.0\ref\WebApplication1.Utility.dll
 C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\net8.0\WebApplication1.Utility.csproj.AssemblyReference.cache
+C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\net8.0\WebApplication1.Utility.sourcelink.json

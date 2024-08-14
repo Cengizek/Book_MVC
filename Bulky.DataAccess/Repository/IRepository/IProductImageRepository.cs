@@ -7,9 +7,9 @@ using WebApplication1.Models;
 
 namespace WebApplication1.DataAccess.Repository.IRepository
 {
-    public interface IApplicationUserRepository : IRepository<ApplicationUser>
+    public interface IProductImageRepository : IRepository<ProductImage>
     {
-      void Update(ApplicationUser applicationUser);
+        void Update(ProductImage obj);
        
     }
 }

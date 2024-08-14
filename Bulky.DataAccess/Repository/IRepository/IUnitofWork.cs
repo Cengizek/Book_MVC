@@ -12,6 +12,7 @@ namespace WebApplication1.DataAccess.Repository.IRepository
         IProductRepository Product { get; }
         ICompanyRepository Company { get; }
         IApplicationUserRepository ApplicationUser { get; }
+        IProductImageRepository ProductImage { get; }
         IShoppingCartRepository ShoppingCart { get; }
         IOrderDetailRepository OrderDetail { get; }
         IOrderHeaderRepository OrderHeader { get; }
